@@ -7,4 +7,5 @@
    * [功能一览](gong_neng_yi_lan.md)
 * [总流程图](zong_liu_cheng_tu.md)
 * [子流程](zi_liu_cheng.md)
+   * 子流程：判断“五子登科”的情况
 
