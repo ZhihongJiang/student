@@ -7,4 +7,5 @@
    * 博饼游戏APP简介
    * APP简介
 * [APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
+   * APP简介
 
