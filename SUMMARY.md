@@ -11,5 +11,5 @@
    * [子流程：判断“对堂”的情况](zi_liu_cheng_ff1a_pan_duan_201c_dui_tang_201d_de_q.md)
    * 子流程：判断“六抔红”的情况
    * 子流程：判断普通“状元”的情况
-   * [子流程：判断“一秀"、“二举”、“三红”、“四进”的情况](zi_liu_cheng_ff1a_pan_duan_201c_yi_79c022_3001_201.md)
+   * [子流程：判断“一秀"的情况](zi_liu_cheng_ff1a_pan_duan_201c_yi_79c022_3001_201.md)
 
