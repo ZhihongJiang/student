@@ -21,5 +21,5 @@
    * [子流程：判断”状元插金花“的情况](zi_liu_cheng_ff1a_pan_duan_201d_zhuang_yuan_cha_ji.md)
    * [子流程：判断”一秀“的情况](zi_liu_cheng_ff1a_pan_duan_201d_yi_xiu_201c_de_qin.md)
 * [六、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
-   * Screen1
+   * [Screen1](screen1.md)
 
