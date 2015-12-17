@@ -22,5 +22,5 @@
    * [子流程：判断”一秀“的情况](zi_liu_cheng_ff1a_pan_duan_201d_yi_xiu_201c_de_qin.md)
 * [六、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
    * [游戏进行界面（Screen1）](screen1.md)
-   * 游戏设置界面（set）
+   * [游戏设置界面（set）](you_xi_she_zhi_jie_mian_ff08_set.md)
 
