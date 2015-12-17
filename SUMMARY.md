@@ -9,6 +9,9 @@
 * [三、APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
    * [APP简介](appjian_jie.md)
    * [功能一览](gong_neng_yi_lan.md)
+* [六、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
+   * [游戏进行界面（Screen1）](screen1.md)
+   * [游戏设置界面（set）](you_xi_she_zhi_jie_mian_ff08_set.md)
 * [四、总流程图](zong_liu_cheng_tu.md)
 * [五、子流程](zi_liu_cheng.md)
    * [子流程：判断“五子登科”的情况](zi_liu_cheng_ff1a_pan_duan_201c_wu_zi_deng_ke_201d.md)
@@ -20,8 +23,5 @@
    * [子流程：判断”四进“的情况](zi_liu_cheng_ff1a_pan_duan_201d_si_jin_201c_de_qin.md)
    * [子流程：判断”状元插金花“的情况](zi_liu_cheng_ff1a_pan_duan_201d_zhuang_yuan_cha_ji.md)
    * [子流程：判断”一秀“的情况](zi_liu_cheng_ff1a_pan_duan_201d_yi_xiu_201c_de_qin.md)
-* [六、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
-   * [游戏进行界面（Screen1）](screen1.md)
-   * [游戏设置界面（set）](you_xi_she_zhi_jie_mian_ff08_set.md)
 * 七、作品特色、难点
 
