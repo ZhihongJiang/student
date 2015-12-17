@@ -2,6 +2,7 @@
 
 * [一、概述](README.md)
    * [项目背景](xiang_mu_bei_jing_jieshao.md)
+* 二、可行性分析和目标群体
 * [APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
    * [APP简介](appjian_jie.md)
    * [功能一览](gong_neng_yi_lan.md)
@@ -16,5 +17,4 @@
    * [子流程：判断”四进“的情况](zi_liu_cheng_ff1a_pan_duan_201d_si_jin_201c_de_qin.md)
    * [子流程：判断”状元插金花“的情况](zi_liu_cheng_ff1a_pan_duan_201d_zhuang_yuan_cha_ji.md)
    * [子流程：判断”一秀“的情况](zi_liu_cheng_ff1a_pan_duan_201d_yi_xiu_201c_de_qin.md)
-* 二、可行性分析和目标群体
 
