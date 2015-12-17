@@ -23,4 +23,5 @@
 * [六、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
    * [游戏进行界面（Screen1）](screen1.md)
    * [游戏设置界面（set）](you_xi_she_zhi_jie_mian_ff08_set.md)
+* 七、特色分析
 
