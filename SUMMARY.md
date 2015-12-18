@@ -6,7 +6,7 @@
 * [可行性分析和目标群体](er_3001_ke_xing_xing_fen_xi_he_mu_biao_qun_ti.md)
    * [可行性分析](ke_xing_xing_fen_xi.md)
    * [目标群体](mu_biao_qun_ti.md)
-* [三、APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
+* [APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
    * [APP简介](appjian_jie.md)
    * [功能一览](gong_neng_yi_lan.md)
 * [四、图形界面设计](liu_3001_tu_xing_jie_mian_she_ji.md)
