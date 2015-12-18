@@ -3,7 +3,7 @@
 * [一、概述](README.md)
    * [选题背景](xiang_mu_bei_jing_jieshao.md)
    * [项目意义](xiang_mu_yi_yi.md)
-* [二、可行性分析和目标群体](er_3001_ke_xing_xing_fen_xi_he_mu_biao_qun_ti.md)
+* [可行性分析和目标群体](er_3001_ke_xing_xing_fen_xi_he_mu_biao_qun_ti.md)
    * [可行性分析](ke_xing_xing_fen_xi.md)
    * [目标群体](mu_biao_qun_ti.md)
 * [三、APP简介与功能一览](appjian_jie_yu_gong_neng_yi_lan.md)
