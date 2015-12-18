@@ -23,7 +23,7 @@
    * [子流程：判断”四进“的情况](zi_liu_cheng_ff1a_pan_duan_201d_si_jin_201c_de_qin.md)
    * [子流程：判断”状元插金花“的情况](zi_liu_cheng_ff1a_pan_duan_201d_zhuang_yuan_cha_ji.md)
    * [子流程：判断”一秀“的情况](zi_liu_cheng_ff1a_pan_duan_201d_yi_xiu_201c_de_qin.md)
-* 七、作品特色、难点
+* [七、作品特色、难点](qi_3001_zuo_pin_te_se_3001_nan_dian.md)
 * 八、总结
 * 九、致谢
 
